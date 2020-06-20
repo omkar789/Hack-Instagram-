@@ -1,0 +1,12 @@
+apt upgrade 
+apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/UndeadSec/SocialFish.git
+cd socialFish
+chmod+×*
+pip install-r reqirements.txt
+python2 SocialFish.py
+
+then 
+sent link to victim
